@@ -5,23 +5,24 @@ export const features = [
     icon: <BrainCircuit className="w-10 h-10 mb-4 text-primary" />,
     title: "AI-Powered Career Guidance",
     description:
-      "Get personalized career advice and insights powered by advanced AI technology.",
+      "Receive personalized career strategies and growth recommendations backed by advanced AI.",
   },
   {
     icon: <Briefcase className="w-10 h-10 mb-4 text-primary" />,
-    title: "Interview Preparation",
+    title: "Mock Interview Coaching",
     description:
-      "Practice with role-specific questions and get instant feedback to improve your performance.",
+      "Sharpen your skills with role-specific questions and real-time AI feedback tailored to your performance.",
   },
   {
     icon: <LineChart className="w-10 h-10 mb-4 text-primary" />,
-    title: "Industry Insights",
+    title: "Real-Time Industry Insights",
     description:
-      "Stay ahead with real-time industry trends, salary data, and market analysis.",
+      "Gain a competitive edge with up-to-date trends, salary benchmarks, and market intelligence.",
   },
   {
     icon: <ScrollText className="w-10 h-10 mb-4 text-primary" />,
-    title: "Smart Resume Creation",
-    description: "Generate ATS-optimized resumes with AI assistance.",
+    title: "Intelligent Resume Builder",
+    description:
+      "Craft polished, ATS-friendly resumes using AI tailored to your experience and goals.",
   },
 ];
