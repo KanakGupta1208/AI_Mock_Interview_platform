@@ -1,4 +1,4 @@
-# Ai powered mock interview platform with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
+# Ai powered mock interview platform with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI 
 ## 
 
 
